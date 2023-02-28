@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @andrew saed
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Andrew Saed
+- 👀 I’m interested in FrontEnd Developer
+- 🌱 I’m working in Connect Profisional Service
+
 
 <!---
 andrew2237/andrew2237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
