@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Andrew Saed
-- 👀 I’m interested in FrontEnd Developer
-- 🌱 I’m working in Connect Profisional Service
-
-
-<!---
-andrew2237/andrew2237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Andrew Saeed Frontend Developer who loves turning ideas into clean, interactive, and user-friendly web experiences. Whether it’s designing sleek UI components or diving into the details of JavaScript and TypeScript, I enjoy every step of the process. I'm experienced with modern frameworks like Angular and Vue 3, and always curious to explore new tools and techniques that push the user experience to the next level.
+I believe great design is more than just how it looks—it's how it feels to use. That’s why I’m always focused on building interfaces that are both visually engaging and easy to navigate.
+I’m constantly learning, experimenting, and refining my craft, because in tech, staying still means falling behind—and I love the challenge of keeping up. Let’s build something awesome together.
